@@ -3,3 +3,5 @@ let newarr= myarr.map(function(x){
     return x + 7
 })
 console.log(newarr)
+
+
