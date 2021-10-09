@@ -13,9 +13,9 @@ function addchild(){
     console.log(a + 5)
 }
 
-    return addchild()
+    return addchild
 
 }
 let catchcal =cat()
 console.log(catchcal)
-// catchcal()
+catchcal()
